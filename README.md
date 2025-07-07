@@ -1,5 +1,6 @@
 # Protest Dynamics in Serbia Following the Train Station Roof Collapse
-[View the project website](#view-the-project-website). 
+[View the project website] 
+
 https://katarinatmb.github.io/Conflict_in_Serbia/
 
 ## Table of Contents
