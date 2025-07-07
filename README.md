@@ -1,5 +1,5 @@
 # Protest Dynamics in Serbia Following the Train Station Roof Collapse
-[View the interactive project website] https://katarinatmb.github.io/Conflict_in_Serbia/
+[View the project website](#view-the-project-website). https://katarinatmb.github.io/Conflict_in_Serbia/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -25,7 +25,7 @@ This analysis reflects the situation only up to April 2025, and the political un
 
 2. Protests Leave Serbia’s Politics Finely Balanced – GMFUS summary of evolving civic unrest in Serbia: gmfus.org/news/protests-leave-serbias-politics-finely-balanced
 
-3. Tensions Mount Ahead of a Pro‑government Rally in Serbia to Counter Massive Student Protests – ABC News reporting on April 2025 events: abcnews.go.com/.../story
+3. Tensions Mount Ahead of a Pro‑government Rally in Serbia to Counter Massive Student Protests – ABC News reporting on April 2025 events: https://abcnews.go.com/International/wireStory/tensions-mount-ahead-pro-government-rally-serbia-counter-120741785
 
 4. Serbia Train Station Roof Collapse, Arrests – AP News on arrests linked to the Novi Sad disaster: apnews.com/article/serbia-train-station-roof-collapse-arrests-75ce32518db2b255229655bce39cb4f8
 
