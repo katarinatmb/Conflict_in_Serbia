@@ -1,5 +1,5 @@
 # Protest Dynamics in Serbia Following the Train Station Roof Collapse
-[View the project website] 
+View the project website 
 
 https://katarinatmb.github.io/Conflict_in_Serbia/
 
@@ -23,14 +23,14 @@ Given multiple categorical variables, visual choices were deliberate: muted colo
 This analysis reflects the situation only up to April 2025, and the political unrest in Serbia remains ongoing, meaning that protest patterns may shift beyond the current timeframe. Moreover, ACLED data likely underestimates actual events, particularly in rural or media-suppressed areas. It relies on automated scraping, manual validation, and media reporting, all of which can miss smaller or politically sensitive protests. Media bias, editorial choices, communication access, and political censorship all contribute to inconsistent event capture across regions . Lastly, geolocation precision varies, especially when events are assigned to town centers due to vague reports. Collectively, these factors suggest that the dataset likely presents a conservative snapshot of Serbia’s protest activities—one that is both incomplete and still evolving.
 
 ## References
-1. ACLED Data Export Tool – Official political violence & protest dataset used for analysis: acleddata.com/data/#download
+1. ACLED Data Export Tool – Official political violence & protest dataset used for analysis: https://acleddata.com/data/#download
 
-2. Protests Leave Serbia’s Politics Finely Balanced – GMFUS summary of evolving civic unrest in Serbia: gmfus.org/news/protests-leave-serbias-politics-finely-balanced
+2. Protests Leave Serbia’s Politics Finely Balanced – GMFUS summary of evolving civic unrest in Serbia: https://gmfus.org/news/protests-leave-serbias-politics-finely-balanced
 
 3. Tensions Mount Ahead of a Pro‑government Rally in Serbia to Counter Massive Student Protests – ABC News reporting on April 2025 events: https://abcnews.go.com/International/wireStory/tensions-mount-ahead-pro-government-rally-serbia-counter-120741785
 
-4. Serbia Train Station Roof Collapse, Arrests – AP News on arrests linked to the Novi Sad disaster: apnews.com/article/serbia-train-station-roof-collapse-arrests-75ce32518db2b255229655bce39cb4f8
+4. Serbia Train Station Roof Collapse, Arrests – AP News on arrests linked to the Novi Sad disaster: https://apnews.com/article/serbia-train-station-roof-collapse-arrests-75ce32518db2b255229655bce39cb4f8
 
-5. Serbia Students Strasbourg EU Protest – AP News covering the student cycling protest to Strasbourg: apnews.com/article/serbia-students-strasbourg-eu-protest-398094de8251ffb3579231e805fc28a7
+5. Serbia Students Strasbourg EU Protest – AP News covering the student cycling protest to Strasbourg: https://apnews.com/article/serbia-students-strasbourg-eu-protest-398094de8251ffb3579231e805fc28a7
 
-6. Serbia Protest: Students, Roof Collapse, Prosecutor, Vučić – AP News on student demonstrations and state response: apnews.com/article/serbia-protest-students-roof-collapse-prosecutor-vucic-b2aa7a208e53006dab4e086588b7355d
+6. Serbia Protest: Students, Roof Collapse, Prosecutor, Vučić – AP News on student demonstrations and state response: https://apnews.com/article/serbia-protest-students-roof-collapse-prosecutor-vucic-b2aa7a208e53006dab4e086588b7355d
