@@ -27,8 +27,8 @@ This analysis reflects the situation only up to April 2025, and the political un
 
 2. Protests Leave Serbia’s Politics Finely Balanced – GMFUS summary of evolving civic unrest in Serbia: https://gmfus.org/news/protests-leave-serbias-politics-finely-balanced
 
-3. Tensions Mount Ahead of a Pro‑government Rally in Serbia to Counter Massive Student Protests – ABC News reporting on April 2025 events: https://abcnews.go.com/International/wireStory/tensions-mount-ahead-pro-government-rally-serbia-counter-120741785
-
+3. Several arrested in Serbia as tensions mount ahead of anti-corruption rally in Belgrade on weekend – ABC News reporting on June 2025 events: https://abcnews.go.com/International/wireStory/arrested-serbia-tensions-mount-ahead-anti-corruption-rally-123221955
+   
 4. Serbia Train Station Roof Collapse, Arrests – AP News on arrests linked to the Novi Sad disaster: https://apnews.com/article/serbia-train-station-roof-collapse-arrests-75ce32518db2b255229655bce39cb4f8
 
 5. Serbia Students Strasbourg EU Protest – AP News covering the student cycling protest to Strasbourg: https://apnews.com/article/serbia-students-strasbourg-eu-protest-398094de8251ffb3579231e805fc28a7
